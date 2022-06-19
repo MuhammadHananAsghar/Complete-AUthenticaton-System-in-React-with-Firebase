@@ -1,4 +1,4 @@
-# Complete AUthenticaton System in React with Firebase
+# Complete Authenticaton System in React with Firebase
 
 
 This Project have following pages:
